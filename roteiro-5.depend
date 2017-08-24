@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1503583449 source:/home/luiz/Documents/roteiro-5/main.cpp
+	<Data.h>
+	<iostream>
+
+1503582000 /home/luiz/Documents/roteiro-5/include/Data.h
+
+1503583954 source:/home/luiz/Documents/roteiro-5/src/Data.cpp
+	<iostream>
+	"Data.h"
+
